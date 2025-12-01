@@ -1,6 +1,6 @@
 # Threat Model – AuthScope (CTF Helper Tool)
 
-## 🎯 Objective
+##  Objective
 Identify risks related to insecure JWT usage in CTF environments and vulnerable labs.
 
 ##  Attacker Capabilities
